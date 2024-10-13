@@ -1,0 +1,5 @@
+# presentation-simple 폴더 내의 모든 파일 무시
+presentation-simple/*
+
+# presentation-simple 폴더 내의 PDF 파일은 추적
+!presentation-simple/*.pdf
